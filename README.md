@@ -1,3 +1,5 @@
+![Website Preview](https://raw.githubusercontent.com/amvitor-cm/my-anime-site-frontend/main/animestud-1.png)
+
 # Anime Studio - Interactive Experience
 
 A modern, responsive website showcasing interactive UI/UX animations, anime-style visuals, and immersive 3D elements. Built with web technologies to demonstrate modern frontend development capabilities.
