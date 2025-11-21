@@ -2,7 +2,7 @@
 
 # Anime Studio - Interactive Experience
 
-A modern, responsive website landing page showcasing interactive UI/UX animations, anime-style visuals, and immersive 3D elements. Built with web technologies to demonstrate modern frontend development capabilities.
+A modern, responsive frontend only website landing page showcasing interactive UI/UX animations, anime-style visuals, and immersive 3D elements. Built with web technologies to demonstrate modern frontend development capabilities.
 
 ![Anime Studio Website](https://my-anime-site-f3mm.vercel.app/)
 
