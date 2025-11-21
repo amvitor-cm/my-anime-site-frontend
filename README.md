@@ -135,6 +135,12 @@ This project is configured for seamless deployment on Vercel:
 - Largest Contentful Paint: < 2.5s
 - Cumulative Layout Shift: < 0.1
 
+## Contact
+- If you’d like access to the full source code for this project, feel free to reach out:
+
+- Email: amvitor.cm@gmail.com
+- Telegram: @amvior
+
 ## License
 
 MIT License - feel free to use this project for learning and development purposes.
