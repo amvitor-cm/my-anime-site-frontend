@@ -4,11 +4,11 @@
 
 A modern, responsive landing page showcasing blockchain-powered anime NFTs and Web3 integration. Built with cutting-edge technologies to demonstrate modern web development skills.
 
-## 🚀 Live Demo
+##  Live Demo
 
 **[View Live Site](https://my-anime-site-f3mm.vercel.app/)**
 
-## ✨ Features
+##  Features
 
 - **Modern Web3 Integration** - Blockchain-powered wallet connection
 - **Responsive Design** - Optimized for desktop, tablet, and mobile
