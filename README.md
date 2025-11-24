@@ -2,7 +2,7 @@
 
 # Web3 Anime Studio
 
-A modern, responsive landing page showcasing blockchain-powered anime NFTs and Web3 integration. Built with cutting-edge technologies to demonstrate modern web development skills.
+A modern, responsive landing page showcasing blockchain-powered anime NFTs and Web3 integration. Built with modern technologies to demonstrate modern web development skills.
 
 ##  Live Demo
 
